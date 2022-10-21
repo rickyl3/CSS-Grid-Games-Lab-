@@ -16,6 +16,7 @@ div:not(#title) {
   font-size: 20px;
   overflow: auto;
   word-wrap: break-word;
+  text-align: center;
 }
 
 .sibling {
